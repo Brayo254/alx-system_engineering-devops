@@ -1,0 +1,1 @@
+bash,IO and redirections
